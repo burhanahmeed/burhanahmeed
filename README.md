@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Facebook Automation Systems with **NodeJS** and **Nuxt, VueJs**.
+🔭 I’m currently working on Facebook Automation Systems using **NodeJS** and **Nuxt, VueJs**.
 
 🌱 I’m currently learning **software architect** and **product management**.
 
