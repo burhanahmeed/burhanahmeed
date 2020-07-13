@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Facebook Automation Systems using **NodeJS** and **Nuxt, VueJs**.
+🔭 I’m currently working on Facebook Ads Automation Systems using **NodeJS** and **Nuxt, VueJs**.
 
 🌱 I’m currently learning **software architect** and **product management**.
 
 😄 Pronouns: He/Him
+
+⚡ Fun fact: none
 <!--
 **burhanahmeed/burhanahmeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
