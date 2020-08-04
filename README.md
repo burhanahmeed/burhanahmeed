@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Facebook Ads Automation Systems using **NodeJS** and **Nuxt, VueJs**.
+🔭 I’m currently working on Facebook Ads Automation Systems using **NodeJS** and **Nuxt, VueJs**. Can work with **React** a little bit as well, prefer **Vue** tho.
 
 🌱 I’m currently learning **software architect** and **product management**.
 
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: none
+
+🤔 Other stacks: Laravel, Lumen, MySql, MongoDB, Redis
+
+📫 How to reach me: collaboration or anything else: brhn@kusiaga.com
 <!--
 **burhanahmeed/burhanahmeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
