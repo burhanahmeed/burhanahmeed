@@ -6,7 +6,7 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: none
+⚡ Fun fact: I had some unfinished side projects
 
 🤔 Other stacks: Laravel, Lumen, MySql, MongoDB, Redis
 
