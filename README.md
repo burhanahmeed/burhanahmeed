@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Facebook Ads Automation Systems using **NodeJS** and **Nuxt, VueJs**. Can work with **React** a little bit as well, prefer **Vue** tho.
+🔭 I’m currently working on Facebook Ads Automation Systems.
 
 🌱 I’m currently learning **software architect** and **product management**.
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I had some unfinished side projects
+⚡ Fun fact: I make a digital products to solve my own problems or other people problems.
 
-🤔 Other stacks: Laravel, Lumen, MySql, MongoDB, Redis
+🤔 Tech stacks: Vue.js, Nuxt.js, Express, React.js, Laravel, Lumen, MySql, MongoDB, Redis, etc
 
 📫 How to reach me: collaboration or anything else: brhn@kusiaga.com
 
