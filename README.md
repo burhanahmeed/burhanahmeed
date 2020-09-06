@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Facebook Ads Automation Systems.
+🔭 I’m currently working on Facebook ads automation systems.
 
 🌱 I’m currently learning **software architect** and **product management**.
 
