@@ -6,7 +6,7 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I make a digital products to solve my own problems or other people problems.
+⚡ Fun fact: I make a digital product to solve my own problems or other people problems.
 
 🤔 Tech stacks: Vue.js, Nuxt.js, Express, React.js, Laravel, Lumen, MySql, MongoDB, Redis, etc
 
