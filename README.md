@@ -1,15 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
-🔭 I’m currently working on Facebook ads automation systems.
+I love making a digital product to solve my own problems or other people's problems. Alos love software architect, growth hacking, football manager, roadbike.
 
-🌱 I’m currently learning **software architect** and **product management**.
+__Tech stacks:__ Vue.js, Nuxt.js, Express, React.js, Laravel, Lumen, MySql, MongoDB, Redis, etc
 
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I make a digital product to solve my own problems or other people problems.
-
-🤔 Tech stacks: Vue.js, Nuxt.js, Express, React.js, Laravel, Lumen, MySql, MongoDB, Redis, etc
-
-📫 How to reach me: collaboration or anything else: brhn@kusiaga.com
-
-[![Berhan's github stats](https://github-readme-stats.vercel.app/api?username=burhanahmeed&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+__How to reach me:__ collaboration or anything else: brhn@kusiaga.com
