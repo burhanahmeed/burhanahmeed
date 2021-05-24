@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a generalist working on pretty much everthing from software development, product management, growth hack and marketing.
+
 I love making a digital product to solve my own problems or other people's problems. Also love software architecting, growth hacking, startup, football manager, roadbike.
 
 __Tech stacks:__ Vue.js, Nuxt.js, Express, React.js, Next.js Laravel, Lumen, MySql, MongoDB, Redis, etc
