@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-I am a generalist working on pretty much everthing from software development, product management, growth hack and marketing.
+I am a fullstack web javascript developer. Having interest in software engineering, data engineering, web3, and halal memes 🤣.
 
-I love making a digital product to solve my own problems or other people's problems. Also love software architecting, growth hacking, startup, football manager, roadbike.
+Also interested in people leadership.
+
+I love making a digital product to solve my own problems or other people's problems. Also love software architecting, growth hacking, startup, football manager, roadbike, archery.
 
 __Technical Experience:__ Vue.js, Nuxt.js, Express, React.js, Next.js Laravel, MySql, MongoDB/Mongoose, Redis, Knex.js, Sequelize, AWS EC2, AliCloud ECS, S3 storage, system design, FB API (Graph API).
 
